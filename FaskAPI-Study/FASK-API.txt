@@ -1,0 +1,11 @@
+Model=這寫資料庫
+Service=這裡寫功能
+Conteoller=這裡寫API
+
+登入功能
+=
+Conteoller裡寫API，然後接收參數和回傳結果給前端
+
+Conteoller會調用Service的方法把參數給Service的方法去做處理
+
+Service會去調用Model去跟資料庫溝通，看看資料是否正確
